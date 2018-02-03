@@ -7,7 +7,7 @@ React-ReactRouter-Webpack-Redux-Antd-Less-Fetch
 <li>将此包下载到本地目录</li>
 <li>npm install 或者使用国内镜像  cnpm install  进行依赖安装</li>
 <li>npm run dev   启动本地服务，默认端口8000</li>
-<li>npm run start   进行项目打包</li>
+<li>npm run build   进行项目打包</li>
 </ul>
 <h4>依赖版本信息</h4>
 <ul>
